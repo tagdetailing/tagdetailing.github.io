@@ -34,10 +34,10 @@ p {
       <div class="collapse navbar-collapse" id="collapsibleNavbar">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="#about.html">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="gallery.html">Gallery/Testimonials</a>
+            <a class="nav-link" href="#gallery.html">Gallery/Testimonials</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Call Us</a>
@@ -48,7 +48,7 @@ p {
 <!--end nav bar-->
 
 <!--about/mission-->
-    <div class="container-fluid bg-dark text-light">
+<div class="container-fluid bg-dark text-light">
       <div class="row">
         <div class="col-sm-6">
           <p> &nbsp; </p>
@@ -68,7 +68,8 @@ p {
     <p> &nbsp; </p>
     <p> &nbsp; </p>
 <!--(service bronze) (about us)-->
-    <div class="container">
+
+<div class="container">
       <div class="row">  
         <div class="col-sm-4">
           <h2>Bronze</h2>
@@ -112,6 +113,6 @@ p {
           <a class="col-6 text-white" style="float: right; text-decoration: none;" href="">Messenger</a>
         <p> &nbsp; </p>  
       </div>
-          
+
 </body>
 </html>
