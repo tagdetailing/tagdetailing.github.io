@@ -27,7 +27,7 @@ p {
 <body>
 <!--nav collapse bar-->
   <nav class="navbar navbar-expand-md bg-primary navbar-dark">
-    <a class="navbar-brand" href="index.html">T.A.G.</a>
+    <a class="navbar-brand" href="index.md">T.A.G.</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
       </button>
