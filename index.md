@@ -34,10 +34,10 @@ p {
       <div class="collapse navbar-collapse" id="collapsibleNavbar">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="about.html">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Gallery/Testimonials</a>
+            <a class="nav-link" href="gallery.html">Gallery/Testimonials</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Call Us</a>
